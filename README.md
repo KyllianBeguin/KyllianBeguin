@@ -8,4 +8,4 @@ I work on some small projects to learn new technologies, mostly related to Data 
 ## Where to find me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyllian-b%C3%A9guin-733bbb150/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/BeguinKyllian)
 
-![GH stats](https://github-readme-stats.vercel.app/api?username=KyllianBeguin&show_icons=true&theme=light)
+![GH stats](https://github-readme-stats.vercel.app/api?username=KyllianBeguin&show_icons=true&theme=gruvbox)
